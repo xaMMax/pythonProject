@@ -49,7 +49,7 @@ async def info_function(message: types.Message):
                          f"For restart press start via keyboard <i>start</i>\n"
                          f"For feedback and wishes send email to my creator\n"
                          f"<b>petrolijuice@gmail.com</b>\n<i>PS: it is my early development stage.</i>"
-                         f"Ypu can find open_code in GitHub...................",
+                         f"Ypu can find open_code in GitHub https://github.com/xaMMax/pythonProject/tree/xaMMax-patch-1",
                          reply_markup=change_lang_keyboard)
 
 
