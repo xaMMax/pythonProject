@@ -1,1 +1,0 @@
-The telegram bot uses telegram Api and Google speech to text Api for recognition user voice, convert it to text and sends it back to telegram.
